@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Build
+/dist/
+/.nuxt/
+/.env
+
+# Logs and databases
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.sqlite
+*.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
